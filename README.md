@@ -11,3 +11,4 @@ The report features several key dashboards that cover various aspects of event a
 ## Usage
 Users can filter data by event, date, and region, providing flexibility and depth in analysis. The dashboards are designed to offer a comprehensive view of event performance, helping to track trends, evaluate revenue, and understand attendee demographics and geography.
 ## Final Output
+![tableau-2](https://github.com/user-attachments/assets/5c38c5ff-ac62-40b2-a5be-ddf44bac9715)
